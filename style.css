@@ -3,9 +3,12 @@ body{
     padding: 0;
 }
 
-header{
+nav{
     height: 50px;
     width: 98vw;
     background-color: pink;
     border: 1px solid pink;
+    display: flex;
+    justify-content: space-around;
+
 }
